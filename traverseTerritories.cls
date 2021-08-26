@@ -1,5 +1,5 @@
 /*
-Author          : R.Hari Krishna(ratharik)
+Author          : R.Hari Krishna
 Created         : Nov 27,2019
 Functionality   : Traverse Territories to get parent/child territory details
 Github          : https://github.com/harveensj5/ReusableComponents
